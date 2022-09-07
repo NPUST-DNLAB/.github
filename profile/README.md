@@ -1,4 +1,4 @@
-# 灯哥LAB
+# 灯能LAB
 <div align="center" class="container">
   <div class="row">
     <div class="col">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" class="container">
-  <img align="center" width="300" height="300" src="https://fps.npust.edu.tw/wp-content/uploads/avatars/10625/5af981140ed03-bpfull.png" alt="" />
+  <img align="center" width="450" height="450" src="https://fps.npust.edu.tw/wp-content/uploads/avatars/10625/5af981140ed03-bpfull.png" alt="" />
 </div>
 
  <div align="center" class="container">
