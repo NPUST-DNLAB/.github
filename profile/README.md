@@ -2,9 +2,9 @@
 <div align="center" class="container">
   <div class="row">
     <div class="col">
-      <img align="center" width="5%" src="https://i.imgur.com/zpxVqxS.gif" alt="" />
+      <img align="center" width="1%" src="https://i.imgur.com/zpxVqxS.gif" alt="" />
       &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-      <img align="center" width="5%" src="https://i.imgur.com/O3neWIB.gif" alt="" />
+      <img align="center" width="1%" src="https://i.imgur.com/O3neWIB.gif" alt="" />
     </div>
   </div>
 </div>
@@ -16,9 +16,9 @@
  <div align="center" class="container">
   <div class="row">
     <div class="col">
-      <img align="center" width="5%" src="https://i.imgur.com/F5U9y8v.gif" alt="" />
+      <img align="center" width="1%" src="https://i.imgur.com/F5U9y8v.gif" alt="" />
       &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-      <img align="center" width="5%" src="https://i.imgur.com/ti9lOcK.gif" alt="" />
+      <img align="center" width="1%" src="https://i.imgur.com/ti9lOcK.gif" alt="" />
     </div>
   </div>
 </div>
